@@ -6,7 +6,7 @@
 <!-- ── TOP WAVE BANNER ─────────────────────────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0a2e,100:6e40c9&height=220&section=header&text=Komal%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0a2e,100:6e40c9&height=220&section=header&text=Komal%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Banner"/>
 
 <!-- ── TYPING ANIMATION ──────────────────────────────────────────── -->
 <a href="https://git.io/typing-svg">
