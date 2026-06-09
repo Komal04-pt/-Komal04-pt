@@ -168,30 +168,6 @@ class KomalPatel:
 
 ---
 
-<!-- ── OPEN SOURCE / GSSoC ───────────────────────────────────────────── -->
-
-## 🌐 Open Source Contributions
-
-<div align="center">
-
-[![GSSoC Badge](https://img.shields.io/badge/GSSoC-2024%20Contributor-FF6B35?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)](https://gssoc.girlscript.tech/)
-&nbsp;
-[![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Komal04-pt)
-
-</div>
-
-### 🏅 GirlScript Summer of Code 2024
-> Participated in **GSSoC 2024** — one of India's largest open source programs
-
-| Metric | Details |
-|:---|:---|
-| 📌 Program | GirlScript Summer of Code 2024 |
-| 🔀 PRs Merged | Update with your count |
-| 🐛 Issues Fixed | Update with your count |
-| 🏗️ Projects Contributed | Update with repo names |
-| 🌐 Domain | Full Stack · Python · Web Dev |
-
----
 
 <!-- ── CONTRIBUTION SNAKE ─────────────────────────────────────────────── -->
 
