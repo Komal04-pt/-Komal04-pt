@@ -34,27 +34,23 @@
 
 ## 🧠 About Me
 
-```python
-class Komal:
-    name        = "Komal Patel"
-    role        = "B.Tech CSE Student"
-    university  = "Indira Gandhi Delhi Technical University for Women"      # ← update this
-    location    = "India 🇮🇳"
-    focus       = ["AI", "ML", "Python", "NLP"]
-    open_source = "GSSoC 2024 Contributor"
-    building    = "AI-powered tools that solve real problems"
-    learning    = ["LangChain", "Vector DBs", "RAG Pipelines"]
-    motto       = "Code it. Break it. Learn it. Ship it. 🚀"
+const komal = {
+  name       : "Komal Patel",
+  university : "IGDTUW, Delhi",
+  role       : "Full Stack Developer",
+  stack      : ["MongoDB", "Express.js", "React", "Node.js"],
+  learning   : "Android App Development",
+  languages  : ["Python", "C", "C++", "HTML", "CSS", "JavaScript", "SQL"],
+  motto      : "Code it. Break it. Learn it. Ship it. 🚀"
+};
 ```
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 🤖 Passionate about **AI/ML, NLP & Computer Vision**
-- 🌱 Currently learning **LangChain, Hugging Face & RAG Pipelines**
-- 🏆 **GSSoC 2024** Open Source Contributor
-- 🔨 Building: **AI Video Summarizer** using Whisper + Hugging Face
-- 💬 Ask me about **Python, Machine Learning, Open Source**
-- 📫 Reach me at: **komal104btcse23Aigdtuw.ac.in**                 <!-- ← update -->
-- ⚡ Fun fact: **I believe every bug is just a feature in disguise!**
+🎓 Pursuing **B.Tech CSE at IGDTUW, Delhi**
+📱 Currently learning Android App Development
+🔨 Built: AI Video Summarizer using Python + Whisper
+💬 Ask me about React, Node.js, MongoDB, Express
+📫 Reach me at: komal104btcse23@igdtuw.ac.in
+⚡ Fun fact: **I believe every bug is just a feature in disguise!**
 
 <br clear="right"/>
 
@@ -191,17 +187,6 @@ class Komal:
 
 </div>
 
-### 🏅 GirlScript Summer of Code 2024
-> Participated in **GSSoC 2024** — one of India's largest open source programs
-
-| Metric | Details |
-|:---|:---|
-| 📌 Program | GirlScript Summer of Code 2024 |
-| 🔀 PRs Merged | `X` pull requests accepted   ← *update this* |
-| 🐛 Issues Fixed | `Y` issues resolved           ← *update this* |
-| 🏗️ Projects | `Repo Name` — what you did    ← *update this* |
-| 🌐 Domain | Python · AI/ML · Web Dev |
-
 ---
 
 <!-- ── CONTRIBUTION SNAKE ──────────────────────────────────────────── -->
@@ -226,16 +211,13 @@ class Komal:
 
 ---
 
-<!-- ── CURRENTLY LEARNING ─────────────────────────────────────────── -->
-
-## 📖 Currently Exploring
+## 📱 Currently Learning
 
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-Learning-%230d1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-Learning-%230d1117?style=for-the-badge&logo=openai&logoColor=a855f7)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-Learning-%230d1117?style=for-the-badge&logo=pinecone&logoColor=a855f7)
-![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-Learning-%230d1117?style=for-the-badge&logo=openai&logoColor=a855f7)
+![Kotlin](https://img.shields.io/badge/Kotlin-Learning-%230d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Learning-%230d1117?style=for-the-badge&logo=jetpack-compose&logoColor=4285F4)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-Learning-%230d1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 
 </div>
 
@@ -250,8 +232,6 @@ class Komal:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/komal-patel-437436290/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:komal104btcse23@igtuw.ac.in)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%230d1117.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/YOUR-HANDLE)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 &nbsp;
