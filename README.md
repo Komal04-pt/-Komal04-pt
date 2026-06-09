@@ -145,31 +145,18 @@ class KomalPatel:
 
 ---
 
-<!-- ── GITHUB STATS ───────────────────────────────────────────────────── -->
-
-## 📊 GitHub Statistics
-
+📊 GitHub Statistics
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Komal04-pt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9" alt="Komal's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Komal04-pt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6e40c9&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komal04-pt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" alt="Top Languages"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal04-pt&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=6e40c9&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="60%"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Komal04-pt&theme=react-dark&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="100%" alt="Activity Graph"/>
-
 </div>
-
----
 
 <!-- ── TROPHIES ──────────────────────────────────────────────────────── -->
 
