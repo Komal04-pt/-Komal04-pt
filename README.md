@@ -156,36 +156,6 @@ class KomalPatel:
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Komal04-pt&theme=react-dark&bg_color=0d1117&color=a855f7&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
-<!-- ── TROPHIES ──────────────────────────────────────────────────────── -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Komal04-pt&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-
-<!-- ── CONTRIBUTION SNAKE ─────────────────────────────────────────────── -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Komal04-pt/Komal04-pt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Komal04-pt/Komal04-pt/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/Komal04-pt/Komal04-pt/output/github-contribution-grid-snake-dark.svg"
-    width="100%"/>
-</picture>
-
-</div>
 
 ---
 
